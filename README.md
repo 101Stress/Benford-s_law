@@ -1,5 +1,5 @@
 # Benford-s_law
-Python script allowing you to check the validity of Benford's law on a data sample passed as a parameter via a JSON file.  
+Python script allowing you to check the validity of Benford's law on a data sample passed as a parameter via a JSON file.
 
 What is Benford's law?
 
